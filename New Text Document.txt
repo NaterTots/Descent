@@ -1,0 +1,8 @@
+Ascent Calculator
+http://nearspaceventures.com/cgi-bin/ascent.pl
+
+Balloon Trajectory Forecast
+http://weather.uwyo.edu/polar/balloon_traj.html
+
+KML Interactive
+https://kml-samples.googlecode.com/svn/trunk/interactive/index.html

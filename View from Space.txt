@@ -1,0 +1,37 @@
+View from Space
+
+http://rcexplorer.se/projects/2013/03/fpv-to-space-and-back/
+
+Aircraft (styrafoam)
+Video Transmitter (Lawmate 1W .12GHz?)
+Receiver (The Gatling + Old Man Mike Optimized Pinwheel?)
+Video Capture (GoPro)
+Video Capture Power (1S 2200mAh liPo battery)
+Temperature distribution (40mm fan)
+Power source (8 Energizer Ultimate Lithium AA batteries)
+Way to cut balloon off (RC Switch, resistor, and self-oxidizing match?)
+Altimeter (Barometric pressure sensor: BMP085 https://www.sparkfun.com/products/9694, with code here: http://wiring.org.co/learning/libraries/bmp085.html)
+Arduino Mini
+Control - OpenLRS long range system http://www.flytron.com/16-openlrs
+	- 7W booster http://www.flytron.com/openlrs/108-7w-booster-for-uhf.html
+	- DIY Yagi 9dbi antenna: http://www.rcgroups.com/forums/showthread.php?t=1266148
+Receiver (Turnstile antenna http://www.rcgroups.com/forums/showthread.php?t=1417408)
+Hydrogen (or Helium)
+Audio Beacon
+Parachute
+
+
+Just a Balloon:
+
+Camera
+Payload
+Balloon
+	http://www.ebay.com/itm/330718667819?ssPageName=STRK:MEWAX:IT&_trksid=p3984.m1438.l2649
+	$40
+Helium
+Parachute
+Altimeter
+	https://www.sparkfun.com/products/11282
+	$20
+Thermometer?
+GPS
